@@ -1,1 +1,4 @@
-Title: my-first-blog-post
+---
+title: "my-first-blog-post"
+date: 2021-11-05
+---
